@@ -1,3 +1,4 @@
 NASA Image Pixelator
 Project Overview
 This project is designed to pull images from NASA's API and transform them into pixelated versions. It utilizes NASA's vast library of space imagery to offer users a unique perspective on the cosmos, rendered in a stylized, pixelated format. Whether you're a space enthusiast, an artist looking for cosmic inspiration, or a developer interested in API integration and image processing, this project offers an intriguing blend of technology and art.
+The script as provided fetches the Astronomy Picture of the Day (APOD) from NASA's API. The APOD is a unique feature offered by NASA that showcases a different image of the universe each day along with a brief explanation written by a professional astronomer. These images can range from pictures of planets, stars, and galaxies to illustrations and photographs of astronomical phenomena or missions.
